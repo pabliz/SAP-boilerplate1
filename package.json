@@ -1,0 +1,20 @@
+{
+    "dependencies": {
+        "express": "^4.17.1"
+    },
+    "name": "boilerplate-server",
+    "version": "1.0.0",
+    "main": "server.js",
+    "devDependencies": {
+        "nodemon": "^2.0.14",
+        "serve-static": "^1.14.1"
+    },
+    "scripts": {
+        "dev": "nodemon server",
+        "start": "node server.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "description": ""
+}
